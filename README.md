@@ -1,4 +1,6 @@
 # vue-todo
+Starter project with Vue.js
+Demo is here - https://paparocketeer.github.io/vue-todo/
 
 ## Project setup
 ```
